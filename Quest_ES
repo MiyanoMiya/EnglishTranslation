@@ -1,4 +1,4 @@
-QUEST_20150317_000001   Selecciona el usuario que necesita modificaciones de Quest.
+QUEST_20150317_000001   Selecciona el usuario que necesita modificaciones de la Misión.
 QUEST_20150317_000002   Estatua de la Diosa Vakarine
 QUEST_20150317_000003   Selecciona un territorio.
 QUEST_20150317_000004   Selecciona
@@ -13,7 +13,7 @@ QUEST_20150317_000012   Maestro Bokor
 QUEST_20150317_000013   ¿Quieres saber sobre esta tableta? {Nl} The mostraré las visiones de la persona que la hizo.
 QUEST_20150317_000014   Diosa Laima
 QUEST_20150317_000015   Para cuando hayas visto esta revelación, un largo tiempo habrá pasado ya. {Nl} Soy Laima, la Diosa del Destino y la Suerte. {Nl}
-QUEST_20150317_000016   Cuando realizé esta revelación 600 años atrás, fuí testigo de mucho dolor y muerte. {Nl} Si estás viendo esta revelación quiere decir que todo lo que predije se ha convertido en realidad. {Nl}
+QUEST_20150317_000016   Cuando realicé esta revelación 600 años atrás, fuí testigo de mucho dolor y muerte. {Nl} Si estás viendo esta revelación quiere decir que todo lo que predije se ha convertido en realidad. {Nl}
 QUEST_20150317_000017   El primer desastre fue causado por los Demonios, y todas las Diosas pueden haber desaparecido. {Nl} Sabía sobre esto desde el principio e hice mi mayor esfuerzo para prevenirlo, pero mis fuerzas no fueron suficientes. {Nl}
 QUEST_20150317_000018   Recorrí un largo camino de predicciones para encontrar la respuesta. {Nl} En la culminación de mis sueños te encontrabas tú: El Salvador. {Nl}
 QUEST_20150317_000019   Sin embargo, conscientes de mi poder para predecir el destino, los Demonios no me dejaban sola. {Nl} Por ende tuve que esconderme hasta encontrarte.
@@ -38,8 +38,8 @@ QUEST_20150317_000037   Bienvenido {Nl} ¿Estás buscando amigos con los que te 
 QUEST_20150317_000038   Puedes hacer que tu compañero luche o entrene atributos especiales. {Nl} Si incrementan su afección puedes incluso comprar equipamentos para él. {Nl}
 QUEST_20150317_000039	Compañeros que crecen con tu afección aumentarán tu estamina y su evasión. {Nl} ¿Qué dices? ¿No es un compañero lo suficientemente bueno para ti?
 QUEST_20150317_000040	Necesitas una llave para la caja.
-QUEST_20150317_000041	Seleccionar Quest
-QUEST_20150317_000042	Modificar estado de Quest
+QUEST_20150317_000041	Seleccionar Misión
+QUEST_20150317_000042	Modificar estado de la Misión
 QUEST_20150317_000043	Forzar comienzo?
 QUEST_20150317_000044	Objetos a borrar
 QUEST_20150317_000045	Seleccionar GenType
@@ -50,7 +50,7 @@ QUEST_20150317_000049	Espero tener un tiempo para descansar...
 QUEST_20150317_000050	Sparnas... {Nl} no es un sujeto fácil.
 QUEST_20150317_000051	Soldado Moody
 QUEST_20150317_000052	Hablemos otra vez después de que derrotemos este monstruo.
-QUEST_20150317_000053	Unirse a la investigación del Team Scott
+QUEST_20150317_000053	Unirse a la investigación del Equipo Scott
 QUEST_20150317_000054	Espero que el día que nuestro equipo ya no sea necesario llegue pronto... {Nl} Ah, me refiero a que quisiera días más pacíficos. Haha... {Nl}
 QUEST_20150317_000055	No sé que hacer. {Nl} ¿Escuchaste algo?
 QUEST_20150317_000056	Fuimos enviados por el reino para investigar los extraños incidentes tomando lugar en el bosque. {Nl} Los testigos dicen que vieron una gran cabeza y dedos huesudos. {Nl} ¿Qué podría ser?
@@ -66,7 +66,7 @@ QUEST_20150317_000065	Pokubus estuvo por aquí desde antes. {Nl} Pero monstruos 
 QUEST_20150317_000066	Estuve pensando en ello. La Diosa seguramente nos ha abandonado. {Nl} Eso explicaría por qué hay tantos monstruos alrededor.
 QUEST_20150317_000067	Escuché que hay una persona viviendo en el bosque cerca de aquí que recivió el poder de la Diosa...
 QUEST_20150317_000068	Quiero regresar a mi pueblo natal.
-QUEST_20150317_000069	La número de monstruos no parece disminuir sin importar cuantos matemos.
+QUEST_20150317_000069	El número de monstruos no parece disminuir sin importar cuantos matemos.
 QUEST_20150317_000070	Revelador, ¿Julian te envió?
 QUEST_20150317_000071	No puede ser. {Nl} Eres la primera que encuentro en los últimos años aquí. {Nl}
 QUEST_20150317_000072	Te mostraré lo que ví.
@@ -218,13 +218,13 @@ QUEST_20150317_000217
 QUEST_20150317_000218	Los soldados del reino y Caliss Knitage... yo pienso que nosotros, los ladrones, estamos balanceando las cosas. {Nl} Por esa razón es que las personas pueden al menos caminar por aquí... antes de eso, este no era un lugar para quedarse.
 QUEST_20150317_000219	Registros de un oficial del reino
 QUEST_20150317_000220	No hubo ningún progreso luego de que Ruklys y su gente se movieron a la Fortaleza de la Gran Tierra. Los clérigos que fueron influenciados por Maven piensan muy pesimistamente sobre participar en la guerra. El Rey está tratando de contratar magos pagándoles bastante, pero no esperamos mucho progreso incluso con su ayuda.
-QUEST_20150317_000221	A record of a citizen
-QUEST_20150317_000222	How could this happen! Lydia Schaffen is going to help Kadumel soldiers.
-QUEST_20150317_000223	A record of an executive at Kingdom Military
-QUEST_20150317_000224	Lydia Schaffen, the person that I only heard in rumors, came to the city with her followers. The officers and soldiers expect that she will change the circumstances in the battle. His majesty ordered us to support her at our best.
-QUEST_20150317_000225	A record of a citizen
-QUEST_20150317_000226	The Fortress of Great Land has fallen down! Now everything is over..
-QUEST_20150317_000227	General Ruklys is dead and the Fortress of Great Land collapsed. Some people say he died due to Lydia Schaffen's arrow, and others say that he died due to the magic used by royal magicians. It is indeed a sad news.
+QUEST_20150317_000221	Registro de un ciudadano
+QUEST_20150317_000222	Cómo pudo suceder esto! Lydia Schaffen ayudará a los soldados Kadumel.
+QUEST_20150317_000223	Registro de un ejecutivo en el Reino Militar
+QUEST_20150317_000224	Lydia Schaffen, la persona de quién solo oí en rumores, llegó a la ciudad con sus seguidores. Los oficiales y soldados esperan que ella logre cambiar las condiciones de la batalla. Su majestad nos ha ordenado brindarle nuestro completo apoyo.
+QUEST_20150317_000225	Registro de un ciudadano
+QUEST_20150317_000226	La Fortaleza de Great Land ha caído! Ya no hay salvación..
+QUEST_20150317_000227	General Ruklys ha muerto y la Fortaleza de la Great Land ha colapsado. Algunos dicen que murió por una flecha de Lydia Schaffen, and others say that he died due to the magic used by royal magicians. It is indeed a sad news.
 QUEST_20150317_000228	To support Caliss Knitage, I moved to here from the headquarters.{nl}If you have any questions, please ask at the headquarters in Square of Lamentation.
 QUEST_20150317_000229	It doesn't feel good to guard here because of Caliss Knitage.{nl}Furthermore, thieves are also running around so we are waiting for support from the headquarters.
 QUEST_20150317_000230	Until now, I have only seen cursed shapes that lost all their time, but it will be different from now on since I came here.
